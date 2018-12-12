@@ -1,0 +1,19 @@
+{
+  "name": "exceltoxml",
+  "version": "1.0.0",
+  "description": "Coverts excel to xml",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron index.js"
+  },
+  "author": "Godson Ositadinma <prestigegodson@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^3.0.10",
+    "materialize-css": "^1.0.0-rc.2",
+    "xls-parser": "^2.0.3",
+    "xlsx": "^0.14.1",
+    "xlsx-extract": "^0.1.1",
+    "xml-writer": "^1.7.0"
+  }
+}
